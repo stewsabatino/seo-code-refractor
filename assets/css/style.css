@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -42,6 +43,7 @@ p {
     font-size: 16px;
 }
 
+/* big picture on homepage */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,12 +63,14 @@ p {
     margin-left: 25px;
 }
 
+/* main content  */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* side bar styling */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -94,6 +98,7 @@ div img {
     max-width: 150px;
 }
 
+/* box set up and color  */
 section {
     margin-bottom: 20px;
     padding: 50px;
@@ -112,6 +117,7 @@ section h2 {
     font-size: 36px;
 }
 
+/* made with and copy styling  */
 footer {
     padding: 30px;
     clear: both;
